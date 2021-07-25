@@ -1,0 +1,4 @@
+---
+# tasks file for ansible-hello-role
+- debug:
+    msg: "Hello world"
